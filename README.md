@@ -1,2 +1,2 @@
 # myportfolio
-A little info about myself
+This is my portfolio framework for showcasing my work.
