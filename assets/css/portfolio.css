@@ -21,9 +21,9 @@
     top: -90px;
     text-align: center;
     background-color: #4aaaa5;
-    padding: 1em;
+    padding: 16px;
     color: #ffffff;
-    z-index: 900;
+    z-index: 1000;
 }
 
 
@@ -32,11 +32,11 @@ footer {
 	left: 0;
 	bottom: 0;
 	width: 100%;
-	padding: 3em;
+	padding: 30px;
 	text-align: center;
-	font-size: 0.8em;
+	font-size: 13px;
 	color: #cccccc;
 	background-color: #666666;
     border-top: 8px solid #4aaaa5;
-    z-index: 1000;
+    z-index: 2000;
 }
