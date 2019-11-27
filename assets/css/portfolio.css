@@ -9,7 +9,7 @@
     position: relative;
     width: 270px;
     height: 200px;
-    transition: transform .2 ease-out;
+    
 }
 
 .portfolio-item:nth-child(even){
