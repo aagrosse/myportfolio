@@ -94,7 +94,7 @@ header .wrapper{
     clear: both;
 }
 
-.content{
+.stuff{
     width: 960px;
     clear: both; 
     margin: 0 auto 96px auto;
@@ -123,7 +123,7 @@ header .wrapper{
 	margin-bottom: 32px;
 }
 
-img.aboutme-photo {
+img.mephoto {
 	float: left;
 	padding: 0 16px 16px 0;
 	width: 200px;
@@ -134,9 +134,11 @@ footer {
     position: fixed;
 	left: 0;
 	bottom: 0;
-	width: 100%;
-	padding: 30px;
-	text-align: center;
+    width: 100%;
+    padding-top: 45px;
+    padding-bottom:5px;
+    text-align: center;
+    vertical-align: bottom;
 	font-size: 13px;
 	color: #cccccc;
 	background-color: #666666;
