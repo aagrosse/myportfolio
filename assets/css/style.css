@@ -90,10 +90,6 @@ header .wrapper{
     border-left: 1px solid #cccccc;
 }
 
-.clearfix::after {
-    clear: both;
-}
-
 .stuff{
     width: 960px;
     clear: both; 
