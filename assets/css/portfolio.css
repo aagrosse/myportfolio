@@ -25,16 +25,4 @@
     z-index: 1000;
 }
 
-footer {
-    position: fixed;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	padding: 30px;
-	text-align: center;
-	font-size: 13px;
-	color: #cccccc;
-	background-color: #666666;
-    border-top: 8px solid #4aaaa5;
-    z-index: 2000;
-}
+

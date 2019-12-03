@@ -31,6 +31,8 @@ a{
     text-decoration: none;
 }
 
+/* Header Bar */
+
 header{
     font-family: Georgia, 'Times New Roman', Times, serif;
     width: 100%;
@@ -93,6 +95,9 @@ header .wrapper{
     margin: 0 auto 96px auto;
 }
 
+
+/* Main Content */
+
 .main{
     display: inline-block;
     width: 880px;
@@ -122,6 +127,8 @@ img.mephoto {
 	width: 200px;
 	height: 200px;
 }
+
+/* Footer */
 
 footer {
     position: fixed;
