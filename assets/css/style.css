@@ -96,9 +96,9 @@ header .wrapper{
 }
 
 
-/* Main Content */
+/* Primary Content */
 
-.main{
+.primary{
     display: inline-block;
     width: 880px;
 	margin: 70px 0;
@@ -107,7 +107,7 @@ header .wrapper{
     border: 1px solid #dddddd;
 }
 
-.main h2 {
+.primary h2 {
 	font-size: 32px;
 	font-weight: bold;
 	padding-bottom: 18px;
@@ -115,7 +115,7 @@ header .wrapper{
 	border-bottom: 2px solid #dddddd;
 }
 
-.main p {
+.primary p {
 	font-size: 16px;
 	line-height: 28px;
 	margin-bottom: 32px;
